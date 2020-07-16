@@ -1,0 +1,12 @@
+{
+    "name": "microbit-komoot",
+    "version": "1.0.0",
+    "description": "Microbit Komoot BLE navigator",
+    "license": "MIT",
+    "dependencies": {
+        "microbit-dal": "lancaster-university/microbit-dal#v2.2.0-rc6",
+        "microbit": "lancaster-university/microbit"
+    },
+    "targetDependencies": {},
+    "bin": "."
+  }
